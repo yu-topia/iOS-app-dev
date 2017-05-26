@@ -11,7 +11,7 @@
 
 ※Organization Identifierは慣例的に、逆DNS形式をとるようです。
 
-## ViewCOntroller.swiftを選択
+## ViewController.swiftを選択
 
 プロジェクトを作成すると、アプリ開発に最低限必要なファイルが自動的に生成されます。
 生成されたファイルは、Xcodeの画面の左側のナビゲータエリア（下図）で確認できます。
