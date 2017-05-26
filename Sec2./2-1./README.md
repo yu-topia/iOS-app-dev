@@ -19,6 +19,7 @@
 <img src="https://cloud.githubusercontent.com/assets/28682101/26484800/15fa5f0e-422f-11e7-9496-dcdfd1be57ab.png" width="400">
 
 ナビゲータエリアから、ViewController.swiftを選択してください。
+
 このファイルには、viewDidLoad()とdidReceiveMemoryWarning()という２つの関数(func)が最初から定義されています。
 
 viewDidLoad()はアプリ画面の読み込みが終了した後に、自動的に実行される部分です。この関数にテストコードを書き込んでいくことにします。
